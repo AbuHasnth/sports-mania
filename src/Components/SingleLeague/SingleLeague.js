@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import GenderImg from '../../sports-mania-main/Photo/male.png'
 import './SingleLeague.css'
 import icon from '../../sports-mania-main/Icon/Facebook.png'
@@ -57,7 +56,7 @@ const SingleLeague = (props) => {
                         
                     </div>
                     <div className='footer'>
-                        <a href=""><img className='footer-image' src={icon} alt="" /></a><a href=""><img className='footer-image' src={icon1} alt="" /></a><a href=""><img className='footer-image'src={icon2} alt="" /></a>
+                        <a href="facebook.com"><img className='footer-image' src={icon} alt="" /></a><a href="youtube.com"><img className='footer-image' src={icon1} alt="" /></a><a href="twitter.com"><img className='footer-image'src={icon2} alt="" /></a>
                     </div>
 
                 </div>

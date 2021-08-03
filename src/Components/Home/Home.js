@@ -1,6 +1,5 @@
 import React from 'react';
 import './Home.css'
-import background from '../../sports-mania-main/Photo/Rectangle 28.png'
 import leagueImage from '../../sports-mania-main/Leauge Logo/image 1.png'
 import leagueImage2 from '../../sports-mania-main/Leauge Logo/image 2.png'
 import leagueImage3 from '../../sports-mania-main/Leauge Logo/image 3.png'
@@ -11,7 +10,7 @@ import leagueImage7 from '../../sports-mania-main/Leauge Logo/image 7.png'
 import leagueImage8 from '../../sports-mania-main/Leauge Logo/image 8.png'
 import leagueImage9 from '../../sports-mania-main/Leauge Logo/image 9.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faGreaterThan } from '@fortawesome/free-solid-svg-icons'
+import {faGreaterThan } from '@fortawesome/free-solid-svg-icons'
 
 import { Link} from 'react-router-dom';
 
